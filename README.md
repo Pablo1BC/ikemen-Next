@@ -1,3 +1,5 @@
+
+
 # ikemen-Next
 Modern enhancements for IKEMEN GO, focused on large character collections, improved usability, and optional quality-of-life features.
 
@@ -15,7 +17,8 @@ Improving the IKEMEN GO experience with quality-of-life features while keeping c
 ## 🎥 Demo
 
 
-https://github.com/Pablo1BC/ikemen-Next/blob/main/ikemen-next-demo.mp4
+<img width="800" height="421" alt="ikemen-next-demo" src="https://github.com/user-attachments/assets/1267410d-4f08-433b-8791-e390a7784bfd" />
+
 
 
 
