@@ -15,7 +15,7 @@ Improving the IKEMEN GO experience with quality-of-life features while keeping c
 ## 🎥 Demo
 
 
-
+https://github.com/Pablo1BC/ikemen-Next/blob/main/ikemen-next-demo.mp4
 
 
 
